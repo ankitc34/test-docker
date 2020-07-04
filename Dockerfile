@@ -12,7 +12,7 @@ ADD target/libs                   libs
 
 # add suite files
 ADD book-flight-module.xml       book-flight-module.xml
-ADD search-module.xml             search-module.xml
+ADD search-module.xml            search-module.xml
 
 #if in case of any other dependency like .csv /.json /.xls , please add those as well
 
